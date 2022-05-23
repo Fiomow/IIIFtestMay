@@ -1,0 +1,13 @@
+{
+  "id" : "https://Fiomow.github.io/IIIFtestMay/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Fiomow/IIIFtestMay project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Fiomow.github.io/IIIFtestMay/manifests/manifest.json",
+    "label" : "Winter Wonderland"
+  } ]
+}
